@@ -6,7 +6,7 @@
 
 
 \NeedsTeXFormat{LaTeX2e}[1995/12/01]
-\ProvidesClass{tjuthesis}[2015/6/7 v0.1 Shanghai Tongji University Template]
+\ProvidesClass{tjuthesis}[2015/06/07 v0.1 Shanghai Tongji University Template]
 \def\version{v0.1}
 \newif\iftju@bachelor\tju@bachelorfalse
 \newif\iftju@master\tju@masterfalse
